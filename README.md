@@ -52,6 +52,4 @@ I'm a Data analyst who likes to work with Excel SQL, Python, Tableau, and Power 
 * Analysis
 * Watching Sports 🏀️⚽️🎾
 * Reading Books
-* Nutrition
-* Nature
 
